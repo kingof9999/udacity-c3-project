@@ -11,7 +11,7 @@ install:
 
 #Scripts to be run such as tests
 before_script:
-  - echo "no tests. Yes there will be tests"
+  - echo "no tests. Yes there will be tests."
 
 # Assuming the .travis.yml file is in the project directory, and there is a separate sub-directory for each service
 # Use either `docker-compose` or individual `docker build` commands
